@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<students>
+	<student id="20200001" nick="唐僧" password="1450575459"></student>
+	<student id="20200002" nick="悟空" password="1450575459"></student>
+	<student id="20200003" nick="八戒" password="1450575459"></student>
+	<student id="20200004" nick="沙僧" password="1450575459"></student>
+</students>
